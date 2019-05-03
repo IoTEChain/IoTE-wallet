@@ -15,8 +15,5 @@ IoTE Solo Mining Guide for Windows：
 IoTE Solo Mining Guide for Linux：
 <https://github.com/IoTEChain/IoTE-wallet/blob/master/IoTE_Solo_Mining_Guide_For_Linux.pdf>
 
-IoTE Solo Mining Guide for Linux：
-<https://github.com/IoTEChain/IoTE-wallet/blob/master/IoTE_Solo_Mining_Guide_For_Linux.pdf>
-
 IoTE Masternode Erection Operation Instructions
 <https://github.com/IoTEChain/IoTE-wallet/blob/master/IoTE_Masternode_Erection_Operation_Instructions.pdf>
