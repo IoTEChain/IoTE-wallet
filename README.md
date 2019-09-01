@@ -1,10 +1,10 @@
 # IoTE-wallet
 
-IoTE Windows wallet Download:（Come sooning）<br />
+IoTE Windows wallet Download:）<br />
 <https://raw.githubusercontent.com/IoTEChain/IoTE-wallet/master/IoTE-1.48-Windows.zip>
 
-IoTE Linux wallet Download：（Come sooning）<br />
-<https://www.iote.one/wallet/IoTE-1.47.5-Linux.zip>
+IoTE Linux wallet Download：<br />
+<https://www.iote.one/wallet/IoTE-1.48-Linux.zip>
 
 IoTE Mining tool:<br />
 <https://github.com/IoTEChain/cpuminer-CryptoVantaa/releases>
