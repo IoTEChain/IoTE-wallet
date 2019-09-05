@@ -1,7 +1,7 @@
 # IoTE-wallet
 
 IoTE Windows wallet Download:<br />
-<https://raw.githubusercontent.com/IoTEChain/IoTE-wallet/master/IoTE-1.48.8-Windows.zip>
+<https://raw.githubusercontent.com/IoTEChain/IoTE-wallet/master/IoTE-1.49-Windows.zip>
 
 IoTE Linux wallet Download：<br />
 <https://www.iote.one/wallet/IoTE-1.49-Linux.zip>
