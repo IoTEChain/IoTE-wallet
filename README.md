@@ -4,7 +4,7 @@ IoTE Windows wallet Download:<br />
 
 
 IoTE Linux wallet Download：<br />
-<https://www.iote.one/wallet/IoTE-1.48.10-Linux-beta.zip>
+
 
 IoTE blocks Download：<br />
 <https://www.iote.one/blocks/138536_block_height.zip>
